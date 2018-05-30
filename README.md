@@ -1,4 +1,3 @@
-@@ -1,185 +1 @@
 # **Traffic Sign Recognition** 
 
 ## Writeup
