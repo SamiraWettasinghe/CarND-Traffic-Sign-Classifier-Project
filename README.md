@@ -2,7 +2,26 @@
 # **Traffic Sign Recognition** 
 
 ## Writeup
+**Build a Traffic Sign Recognition Project**
 
+The goals / steps of this project are the following:
+* Load the data set (see below for links to the project data set)
+* Explore, summarize and visualize the data set
+* Design, train and test a model architecture
+* Use the model to make predictions on new images
+* Analyze the softmax probabilities of the new images
+* Summarize the results with a written report
+
+[//]: # (Image References)
+
+[image2]: ./mod_hist.png "Training Set Histogram"
+[image3]: ./valid_hist.png "Validation Set Histogram"
+[image4]: ./new_pics/1_resized.png "Traffic Sign 1"
+[image5]: ./new_pics/2_resized.png "Traffic Sign 2"
+[image6]: ./new_pics/3_resized.png "Traffic Sign 3"
+[image7]: ./new_pics/4_resized.png "Traffic Sign 4"
+[image8]: ./new_pics/5_resized.png "Traffic Sign 5"
+ 
 ---
 ### Writeup / README
 
