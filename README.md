@@ -1,8 +1,26 @@
-@@ -1,185 +1 @@
 # **Traffic Sign Recognition** 
 
 ## Writeup
+**Build a Traffic Sign Recognition Project**
 
+The goals / steps of this project are the following:
+* Load the data set (see below for links to the project data set)
+* Explore, summarize and visualize the data set
+* Design, train and test a model architecture
+* Use the model to make predictions on new images
+* Analyze the softmax probabilities of the new images
+* Summarize the results with a written report
+
+[//]: # (Image References)
+
+[image2]: ./mod_hist.png "Training Set Histogram"
+[image3]: ./valid_hist.png "Validation Set Histogram"
+[image4]: ./new_pics/1_resized.png "Traffic Sign 1"
+[image5]: ./new_pics/2_resized.png "Traffic Sign 2"
+[image6]: ./new_pics/3_resized.png "Traffic Sign 3"
+[image7]: ./new_pics/4_resized.png "Traffic Sign 4"
+[image8]: ./new_pics/5_resized.png "Traffic Sign 5"
+ 
 ---
 ### Writeup / README
 
@@ -28,6 +46,7 @@ I used Python to calculate statistics about my data set.
 
 Shown below is a histogram indicating the number of images that are in the training set for each class.
 ![alt_text][image2]
+
 Shown below is a histogram indicating the number of images that are in the validation set for each class.
 ![alt_text][image3]
 
@@ -184,4 +203,4 @@ For the fifth image, the model is certain that this is a 70km/h speed limit sign
 | 2.59e-05				| Speed limit (20km/h)							|
 | 1.37e-12				| Speed limit (50km/h)					 		|
 | 1.72e-14				| Bicycles crossing								|
-# CarND-Traffic-Sign-Classifier-Project
+
