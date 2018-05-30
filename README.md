@@ -46,6 +46,7 @@ I used Python to calculate statistics about my data set.
 
 Shown below is a histogram indicating the number of images that are in the training set for each class.
 ![alt_text][image2]
+
 Shown below is a histogram indicating the number of images that are in the validation set for each class.
 ![alt_text][image3]
 
@@ -202,4 +203,4 @@ For the fifth image, the model is certain that this is a 70km/h speed limit sign
 | 2.59e-05				| Speed limit (20km/h)							|
 | 1.37e-12				| Speed limit (50km/h)					 		|
 | 1.72e-14				| Bicycles crossing								|
-# CarND-Traffic-Sign-Classifier-Project
+
